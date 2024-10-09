@@ -33,7 +33,7 @@ The dataset used in this project is too large to be hosted on GitHub. However, i
 ## Connect with Me
 - LinkedIn: [ErikJon Pérez](https://www.linkedin.com/in/erikjon-perez-mardaras/)
 - GitHub: [Github](https://github.com/erikjonperez)
-- Mail: [gMail](erikjon.perez@gmail.com)
+- Mail: [erikjon.perez@gmail.com](erikjon.perez@gmail.com)
 
 ## Acknowledgements
 I would like to thank qianyingcao for their original work, which this project is based on. You can find their repository here: [Original Repo](https://github.com/qianyingcao/Laplace-Neural-Operator).
